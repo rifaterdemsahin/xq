@@ -1,0 +1,12 @@
+<library>
+  <book>
+    <title>Learning XML</title>
+    <author>Erik T. Ray</author>
+    <price>39.95</price>
+  </book>
+  <book>
+    <title>XML in a Nutshell</title>
+    <author>Elliotte Rusty Harold</author>
+    <price>29.95</price>
+  </book>
+</library>
